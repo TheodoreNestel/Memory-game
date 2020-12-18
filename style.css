@@ -1,0 +1,60 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+div.hidden
+{
+  background-color: white;
+}
+
+.purple {
+
+  background-color: rebeccapurple;
+
+}
+
+.red
+{
+
+  background-color: red;
+
+}
+
+.blue {
+
+  background-color: blue;
+
+}
+
+.green {
+
+  background-color: green;
+
+}
+
+
+.orange {
+
+  background-color: orange;
+
+}
+
+.disabled
+{
+  pointer-events: none;
+}
+
+
+
+
+
+  
+  
+  
+
+
+
